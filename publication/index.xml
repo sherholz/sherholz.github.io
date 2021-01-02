@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,42 +13,9 @@
     </image>
     
     <item>
-      <title>Product Importance Sampling for Light Transport Path Guiding</title>
-      <link>/publication/2016-product/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-product/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;p&gt;We are grateful to Anton Kaplanyan and Johannes Hanika for sharing the Mitsuba-adapted KITCHEN and JEWELRY scenes, Martin Šik for sharing the KITCHENETTE scene and providing code for the reference integrator, Ivo Kondapaneni for testing mixture initialization code, Ludvík Koutný for creating the LIVINGROOM scene, and the anonymous reviewers for their valuable feedback.&lt;/p&gt;
-&lt;p&gt;This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 642841; from the Czech Science Foundation grant 16-18964S; from the grant SVV-2016-260332; from the Charles University Grant Agency project GAUK340915; from the DFG Emmy Noether fellowship Le 1341/1-1; and from an NVIDIA hardware grant.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;!--
-#&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference #management software.
-#
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-#&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    #Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-#
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Robust Fitting of Parallax-Aware Mixtures for Path Guiding</title>
       <link>/publication/2020-robustpmm/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020-robustpmm/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -80,7 +47,7 @@
     <item>
       <title>Variance-Aware Path Guiding </title>
       <link>/publication/2020-varianceguiding/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020-varianceguiding/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -117,11 +84,44 @@
     <item>
       <title>Volume Path Guiding Based on Zero-Variance Random Walk Theory</title>
       <link>/publication/2019-volumeguiding/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019-volumeguiding/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     We want to thank the following persons and institutions for providing some of the models and scenes used in this work: Stanford 3D scanning repository (Buddha), Alvaro Luna Bautista and Joel Andersdon (Natural History), Bruce Walter (Bumpy Sphere), and Infinite Realities (InfiniteScan Head). An additional thanks goes to Robert Hildebrandt for lighting some of the scenes.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--
+#&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference #management software.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+#&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    #Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+ Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Product Importance Sampling for Light Transport Path Guiding</title>
+      <link>/publication/2016-product/</link>
+      <pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-product/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;We are grateful to Anton Kaplanyan and Johannes Hanika for sharing the Mitsuba-adapted KITCHEN and JEWELRY scenes, Martin Šik for sharing the KITCHENETTE scene and providing code for the reference integrator, Ivo Kondapaneni for testing mixture initialization code, Ludvík Koutný for creating the LIVINGROOM scene, and the anonymous reviewers for their valuable feedback.&lt;/p&gt;
+&lt;p&gt;This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 642841; from the Czech Science Foundation grant 16-18964S; from the grant SVV-2016-260332; from the Charles University Grant Agency project GAUK340915; from the DFG Emmy Noether fellowship Le 1341/1-1; and from an NVIDIA hardware grant.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;!--
